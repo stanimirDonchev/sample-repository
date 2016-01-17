@@ -1,1 +1,2 @@
 # sample-repository
+new line
